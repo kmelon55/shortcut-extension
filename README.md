@@ -20,9 +20,9 @@ This is a Chrome extension that provides convenient tab navigation functionaliti
 
 Once the extension is installed, you can use the following keyboard shortcuts:
 
-- **Ctrl+Shift+E**: Switch to the next tab.
-- **Ctrl+Shift+Q**: Switch to the previous tab.
-- **Ctrl+K**: Duplicate the current tab.
+- **Ctrl(Cmd)+Shift+E**: Switch to the next tab.
+- **Ctrl(Cmd)+Shift+E**: Switch to the previous tab.
+- **Ctrl(Cmd)+K**: Duplicate the current tab.
 
 ## License
 
